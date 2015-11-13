@@ -1,0 +1,116 @@
+body{
+	color:#555555;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	font-size: 13px;
+}
+h1, h2, h3, h4{
+	color:#A9268D;
+	font-family: "Oswald", Arial, sans-serif;
+	text-align: center;
+	font-weight: bold;
+}
+.main-menu{
+	margin-top: 10px;
+}
+.list-nav{
+	text-align: center;
+}
+
+.list-nav li{
+	display: inline-block;
+}
+.list-nav a{
+	display: block;
+	padding: 5px 20px;
+	color: #555;
+	font-family: "Oswald", Arial sans-serif;
+	text-transform: 
+}
+.list-nav a:hover{
+	text-transform: none;
+	background-color: #ECECEC;
+	transform: scale(1.2)
+}
+
+.header-conteiner{
+	background: url("../img/background.jpg") center center;
+	color: #FFF;
+	text-align: center;
+	padding: 80px;
+}
+.header-conteiner{
+	color:#FFF;
+}
+
+.about-me .biografia img{
+	float: left;
+	width: 200px;
+	margin-right: 15px;
+	border:1px solid #555;
+	padding: 5px;
+	margin-left: 100px;
+
+
+}
+.about-me .biografia{
+	margin-right: 100px;
+	height: 250px;
+	margin-top: 0px;
+}
+.about-me{
+	background: url("../img/tile1.png");
+}
+.favoritos{
+	margin-top: 40px;
+	height: 700px;
+}
+
+h3{
+	margin-top: 0px;
+	margin-bottom: 30px;
+	padding-top: 100px;
+
+}
+h3 p{
+	font-family: "Oswald", Arial sans-serif;
+}
+
+.conteiner{
+	margin-top: 0px;
+}
+.favoritos p{
+	text-align: center;
+	color:#A9268D;
+	font-family: "Oswald", Arial sans-serif;
+	font-weight: 800;
+}
+ .cosa1, .cosa2, .cosa3, .cosa4, .cosa5, .cosa6 {
+ 	border-radius:  120px;
+	border-style: double;
+ 	border-width: 4px; 
+	border-color: purple;
+	width: 180px;
+	height: 180px;
+	float: left;
+	margin-right: 40px;
+	margin-bottom: 10px;
+	margin-top: 40px;
+ }
+ .cosas{
+	margin-left: 370px;
+	width: 700px;
+	height: 400px;
+ }
+ .contacto{
+ 	margin-top: 10px;
+ 	background: url("../img/tile2.png");
+ 	height: 400px;
+ }
+ .cont{
+ 	margin-left: 400px;
+ }
+ .cont1, .cont2, .cont3{
+ 	width: 180px;
+ 	height: 180px;
+ 	padding: 30px;
+ }
